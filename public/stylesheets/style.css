@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(112, 114, 113);
+  font-family: /*cursive*/ Verdana;
+  background-image: url('/images/carretera.jpg');
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
